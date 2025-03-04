@@ -28,7 +28,7 @@ Este proyecto demuestra cómo crear checkboxes personalizados y accesibles utili
 1. Clona el repositorio en tu máquina local:
 
    ```sh
-   git clone https://github.com/tuusuario/custom-checkboxes.git
+   git clone https://github.com/lenninIbarrraGonzalez/checkboxcss
    ```
 
 2. Abre el archivo `index.html` en tu navegador.
